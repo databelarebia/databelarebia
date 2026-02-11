@@ -139,7 +139,7 @@ Diplome avec mention, classe 2e de promotion
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=databelarebia&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true&cache_seconds=86400&rank_icon=github" height="165" alt="GitHub Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=databelarebia&theme=github_dark" height="165" alt="GitHub Stats"/>
 <img src="https://streak-stats.demolab.com/?user=databelarebia&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="165" alt="GitHub Streak"/>
 
 <br>
