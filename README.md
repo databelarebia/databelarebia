@@ -121,6 +121,44 @@ Diplome avec mention, classe 2e de promotion
 
 </div>
 
+---
+
+## Tu veux un profil GitHub comme celui-ci ?
+
+<div align="center">
+
+Ce repo est **public** — fork-le et adapte-le a ton parcours !
+
+[![Fork this repo](https://img.shields.io/badge/Fork_ce_repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/databelarebia/databelarebia/fork)
+
+**Partager sur les reseaux :**
+
+[![Share on LinkedIn](https://img.shields.io/badge/Partager_sur_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/databelarebia/databelarebia)
+[![Share on X](https://img.shields.io/badge/Partager_sur_X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/intent/tweet?text=Un%20profil%20GitHub%20styl%C3%A9%20pour%20les%20Data%20%2F%20IA%20%2F%20MLOps%20%E2%80%94%20fork-le%20et%20adapte-le%20!&url=https://github.com/databelarebia/databelarebia)
+[![Share on Facebook](https://img.shields.io/badge/Partager_sur_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sharer/sharer.php?u=https://github.com/databelarebia/databelarebia)
+[![Share on WhatsApp](https://img.shields.io/badge/Partager_sur_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?text=Un%20profil%20GitHub%20styl%C3%A9%20pour%20les%20Data%20%2F%20IA%20%2F%20MLOps%20%E2%80%94%20fork-le%20et%20adapte-le%20!%20https://github.com/databelarebia/databelarebia)
+
+</div>
+
+<details>
+<summary><b>Comment creer ton propre profil GitHub style ?</b></summary>
+
+<br>
+
+1. **Fork** ce repo ou cree un repo avec ton nom d'utilisateur GitHub (ex: `ton-username/ton-username`)
+2. Ajoute un fichier `README.md` a la racine
+3. Personnalise le contenu avec tes infos (nom, stack, certifications, liens...)
+4. Les outils utilises ici :
+   - Badges : [shields.io](https://shields.io/)
+   - Header/Footer anime : [capsule-render](https://github.com/kyechan99/capsule-render)
+   - Stats GitHub : [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+   - Streak stats : [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+5. Commit, push, et ton profil est live !
+
+</details>
+
+<br>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=100&section=footer" width="100%"/>
