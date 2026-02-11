@@ -7,15 +7,35 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miloud.belarebia@2pidata.fr)
 [![AWS Certified](https://img.shields.io/badge/AWS_Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/f0961114-d2b2-4833-a74e-324cf86707dd/linked_in_profile)
 
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=620&lines=Tech+Lead+Data+%7C+Expert+IA+Generative;Architecte+MLOps+%7C+Azure+%26+AWS;LLM+%7C+RAG+%7C+Agents+IA+%7C+GenAI;Du+POC+%C3%A0+la+Production+%F0%9F%9A%80" alt="Typing SVG" />
+
 </div>
 
+---
+
 ## `> whoami`
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
 
 Tech Lead Data et MLOps avec **7 ans d'experience** dans la mise en production de plateformes Data/ML et de solutions IA pour des grands comptes (retail, transport, banque, telecom).
 
 Specialise en **IA generative sur Azure et AWS**, avec une forte orientation industrialisation du POC a la production, gouvernance, securite, observabilite et optimisation des couts.
 
 <br>
+
+```text
+  Mon Pipeline IA
+  ───────────────────────────────────────────────────────────
+  📥 Data       →  🔧 Processing     →  🧠 AI/ML        →  🚀 Production
+  Collecte         Transformation        Entrainement        Deploiement
+                   & Nettoyage           & Fine-tuning       & Monitoring
+```
+
+<br clear="both">
+
+---
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Expertise
 
@@ -87,11 +107,14 @@ Referent technique, mentoring, coordination architectes/developpeurs/metiers, ca
 <div align="center">
 
 <a href="https://www.credly.com/badges/f0961114-d2b2-4833-a74e-324cf86707dd/linked_in_profile">
-  <img src="https://images.credly.com/size/150x150/images/4d4693bb-530e-4bca-9571-40f8be2ba5b3/image.png" alt="AWS Certified AI Practitioner" width="120"/>
+  <img src="https://img.shields.io/badge/AWS_Certified-AI_Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" alt="AWS Certified AI Practitioner" height="35"/>
 </a>
 
-**AWS Certified AI Practitioner**<br>
-Amazon Web Services
+<br>
+
+*Delivree par Amazon Web Services*
+&nbsp;&nbsp;|&nbsp;&nbsp;
+[Verifier sur Credly](https://www.credly.com/badges/f0961114-d2b2-4833-a74e-324cf86707dd/linked_in_profile)
 
 </div>
 
@@ -116,10 +139,54 @@ Diplome avec mention, classe 2e de promotion
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=databelarebia&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=databelarebia&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=databelarebia&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true&cache_seconds=86400&rank_icon=github" height="165" alt="GitHub Stats"/>
+<img src="https://streak-stats.demolab.com/?user=databelarebia&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="165" alt="GitHub Streak"/>
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=databelarebia&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1f6feb" width="95%" alt="Activity Graph"/>
 
 </div>
+
+---
+
+## Tu veux un profil GitHub comme celui-ci ?
+
+<div align="center">
+
+Ce repo est **public** — fork-le et adapte-le a ton parcours !
+
+[![Fork this repo](https://img.shields.io/badge/Fork_ce_repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/databelarebia/databelarebia/fork)
+
+**Partager sur les reseaux :**
+
+[![Share on LinkedIn](https://img.shields.io/badge/Partager_sur_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/databelarebia/databelarebia)
+[![Share on X](https://img.shields.io/badge/Partager_sur_X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/intent/tweet?text=Un%20profil%20GitHub%20styl%C3%A9%20pour%20les%20Data%20%2F%20IA%20%2F%20MLOps%20%E2%80%94%20fork-le%20et%20adapte-le%20!&url=https://github.com/databelarebia/databelarebia)
+[![Share on Facebook](https://img.shields.io/badge/Partager_sur_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sharer/sharer.php?u=https://github.com/databelarebia/databelarebia)
+[![Share on WhatsApp](https://img.shields.io/badge/Partager_sur_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?text=Un%20profil%20GitHub%20styl%C3%A9%20pour%20les%20Data%20%2F%20IA%20%2F%20MLOps%20%E2%80%94%20fork-le%20et%20adapte-le%20!%20https://github.com/databelarebia/databelarebia)
+
+</div>
+
+<details>
+<summary><b>Comment creer ton propre profil GitHub style ?</b></summary>
+
+<br>
+
+1. **Fork** ce repo ou cree un repo avec ton nom d'utilisateur GitHub (ex: `ton-username/ton-username`)
+2. Ajoute un fichier `README.md` a la racine
+3. Personnalise le contenu avec tes infos (nom, stack, certifications, liens...)
+4. Les outils utilises ici :
+   - Badges : [shields.io](https://shields.io/)
+   - Header/Footer anime : [capsule-render](https://github.com/kyechan99/capsule-render)
+   - Stats GitHub : [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+   - Streak stats : [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+   - Typing animation : [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+   - Activity graph : [github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
+5. Commit, push, et ton profil est live !
+
+</details>
+
+<br>
 
 <div align="center">
 
