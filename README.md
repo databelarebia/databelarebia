@@ -4,6 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miloudbelarebia)
 [![Website](https://img.shields.io/badge/2pidata.com-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://2pidata.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/miloudbelarebia/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miloud.belarebia@2pidata.fr)
 [![AWS Certified](https://img.shields.io/badge/AWS_Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/f0961114-d2b2-4833-a74e-324cf86707dd/linked_in_profile)
 
@@ -135,16 +136,31 @@ Diplome avec mention, classe 2e de promotion
 
 <br>
 
+## Organisations
+
+<div align="center">
+
+<a href="https://github.com/2pidata">
+  <img src="https://img.shields.io/badge/2pidata-Conseil_Data_&_IA-000000?style=for-the-badge&logo=github&logoColor=white" alt="2pidata"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/MoroccoAI">
+  <img src="https://img.shields.io/badge/MoroccoAI-Communaute_IA_Maroc-006233?style=for-the-badge&logo=github&logoColor=white" alt="MoroccoAI"/>
+</a>
+
+</div>
+
+<br>
+
 ---
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=databelarebia&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true&cache_seconds=86400&rank_icon=github" height="165" alt="GitHub Stats"/>
-<img src="https://streak-stats.demolab.com/?user=databelarebia&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="165" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=miloudbelarebia&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="180" alt="GitHub Streak"/>
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=databelarebia&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1f6feb" width="95%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=miloudbelarebia&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1f6feb" width="95%" alt="Activity Graph"/>
 
 </div>
 
@@ -154,16 +170,18 @@ Diplome avec mention, classe 2e de promotion
 
 <div align="center">
 
-Ce repo est **public** — fork-le et adapte-le a ton parcours !
+Ce repo est **public** — fork-le et adapte-le a ton parcours !<br>
+Mais avant, n'oublie pas de laisser une etoile, ca fait toujours plaisir !
 
-[![Fork this repo](https://img.shields.io/badge/Fork_ce_repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/databelarebia/databelarebia/fork)
+[![Star this repo](https://img.shields.io/badge/Laisser_une_etoile-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/miloudbelarebia/miloudbelarebia)
+[![Fork this repo](https://img.shields.io/badge/Fork_ce_repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miloudbelarebia/miloudbelarebia/fork)
 
 **Partager sur les reseaux :**
 
-[![Share on LinkedIn](https://img.shields.io/badge/Partager_sur_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/databelarebia/databelarebia)
-[![Share on X](https://img.shields.io/badge/Partager_sur_X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/intent/tweet?text=Un%20profil%20GitHub%20styl%C3%A9%20pour%20les%20Data%20%2F%20IA%20%2F%20MLOps%20%E2%80%94%20fork-le%20et%20adapte-le%20!&url=https://github.com/databelarebia/databelarebia)
-[![Share on Facebook](https://img.shields.io/badge/Partager_sur_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sharer/sharer.php?u=https://github.com/databelarebia/databelarebia)
-[![Share on WhatsApp](https://img.shields.io/badge/Partager_sur_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?text=Un%20profil%20GitHub%20styl%C3%A9%20pour%20les%20Data%20%2F%20IA%20%2F%20MLOps%20%E2%80%94%20fork-le%20et%20adapte-le%20!%20https://github.com/databelarebia/databelarebia)
+[![Share on LinkedIn](https://img.shields.io/badge/Partager_sur_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/miloudbelarebia/miloudbelarebia)
+[![Share on X](https://img.shields.io/badge/Partager_sur_X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/intent/tweet?text=Un%20profil%20GitHub%20styl%C3%A9%20pour%20les%20Data%20%2F%20IA%20%2F%20MLOps%20%E2%80%94%20fork-le%20et%20adapte-le%20!&url=https://github.com/miloudbelarebia/miloudbelarebia)
+[![Share on Facebook](https://img.shields.io/badge/Partager_sur_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sharer/sharer.php?u=https://github.com/miloudbelarebia/miloudbelarebia)
+[![Share on WhatsApp](https://img.shields.io/badge/Partager_sur_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?text=Un%20profil%20GitHub%20styl%C3%A9%20pour%20les%20Data%20%2F%20IA%20%2F%20MLOps%20%E2%80%94%20fork-le%20et%20adapte-le%20!%20https://github.com/miloudbelarebia/miloudbelarebia)
 
 </div>
 
