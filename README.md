@@ -139,11 +139,11 @@ Diplome avec mention, classe 2e de promotion
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=databelarebia&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="180" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=miloudbelarebia&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="180" alt="GitHub Streak"/>
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=databelarebia&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1f6feb" width="95%" alt="Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=miloudbelarebia&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1f6feb" width="95%" alt="Activity Graph"/>
 
 </div>
 
@@ -156,15 +156,15 @@ Diplome avec mention, classe 2e de promotion
 Ce repo est **public** — fork-le et adapte-le a ton parcours !<br>
 Mais avant, n'oublie pas de laisser une etoile, ca fait toujours plaisir !
 
-[![Star this repo](https://img.shields.io/badge/Laisser_une_etoile-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/databelarebia/databelarebia)
-[![Fork this repo](https://img.shields.io/badge/Fork_ce_repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/databelarebia/databelarebia/fork)
+[![Star this repo](https://img.shields.io/badge/Laisser_une_etoile-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/miloudbelarebia/miloudbelarebia)
+[![Fork this repo](https://img.shields.io/badge/Fork_ce_repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miloudbelarebia/miloudbelarebia/fork)
 
 **Partager sur les reseaux :**
 
-[![Share on LinkedIn](https://img.shields.io/badge/Partager_sur_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/databelarebia/databelarebia)
-[![Share on X](https://img.shields.io/badge/Partager_sur_X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/intent/tweet?text=Un%20profil%20GitHub%20styl%C3%A9%20pour%20les%20Data%20%2F%20IA%20%2F%20MLOps%20%E2%80%94%20fork-le%20et%20adapte-le%20!&url=https://github.com/databelarebia/databelarebia)
-[![Share on Facebook](https://img.shields.io/badge/Partager_sur_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sharer/sharer.php?u=https://github.com/databelarebia/databelarebia)
-[![Share on WhatsApp](https://img.shields.io/badge/Partager_sur_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?text=Un%20profil%20GitHub%20styl%C3%A9%20pour%20les%20Data%20%2F%20IA%20%2F%20MLOps%20%E2%80%94%20fork-le%20et%20adapte-le%20!%20https://github.com/databelarebia/databelarebia)
+[![Share on LinkedIn](https://img.shields.io/badge/Partager_sur_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/miloudbelarebia/miloudbelarebia)
+[![Share on X](https://img.shields.io/badge/Partager_sur_X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/intent/tweet?text=Un%20profil%20GitHub%20styl%C3%A9%20pour%20les%20Data%20%2F%20IA%20%2F%20MLOps%20%E2%80%94%20fork-le%20et%20adapte-le%20!&url=https://github.com/miloudbelarebia/miloudbelarebia)
+[![Share on Facebook](https://img.shields.io/badge/Partager_sur_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/sharer/sharer.php?u=https://github.com/miloudbelarebia/miloudbelarebia)
+[![Share on WhatsApp](https://img.shields.io/badge/Partager_sur_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?text=Un%20profil%20GitHub%20styl%C3%A9%20pour%20les%20Data%20%2F%20IA%20%2F%20MLOps%20%E2%80%94%20fork-le%20et%20adapte-le%20!%20https://github.com/miloudbelarebia/miloudbelarebia)
 
 </div>
 
