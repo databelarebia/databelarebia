@@ -153,8 +153,10 @@ Diplome avec mention, classe 2e de promotion
 
 <div align="center">
 
-Ce repo est **public** — fork-le et adapte-le a ton parcours !
+Ce repo est **public** — fork-le et adapte-le a ton parcours !<br>
+Mais avant, n'oublie pas de laisser une etoile, ca fait toujours plaisir !
 
+[![Star this repo](https://img.shields.io/badge/Laisser_une_etoile-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/databelarebia/databelarebia)
 [![Fork this repo](https://img.shields.io/badge/Fork_ce_repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/databelarebia/databelarebia/fork)
 
 **Partager sur les reseaux :**
