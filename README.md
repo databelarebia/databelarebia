@@ -4,6 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miloudbelarebia)
 [![Website](https://img.shields.io/badge/2pidata.com-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://2pidata.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/miloudbelarebia/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miloud.belarebia@2pidata.fr)
 [![AWS Certified](https://img.shields.io/badge/AWS_Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/f0961114-d2b2-4833-a74e-324cf86707dd/linked_in_profile)
 
@@ -132,6 +133,22 @@ Diplome avec mention, classe 2e de promotion
 ![Francais](https://img.shields.io/badge/Francais-Natif-0055A4?style=flat-square)
 ![Anglais](https://img.shields.io/badge/Anglais-Professionnel-012169?style=flat-square)
 ![Arabe](https://img.shields.io/badge/Arabe-Courant-006233?style=flat-square)
+
+<br>
+
+## Organisations
+
+<div align="center">
+
+<a href="https://github.com/2pidata">
+  <img src="https://img.shields.io/badge/2pidata-Conseil_Data_&_IA-000000?style=for-the-badge&logo=github&logoColor=white" alt="2pidata"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/MoroccoAI">
+  <img src="https://img.shields.io/badge/MoroccoAI-Communaute_IA_Maroc-006233?style=for-the-badge&logo=github&logoColor=white" alt="MoroccoAI"/>
+</a>
+
+</div>
 
 <br>
 
