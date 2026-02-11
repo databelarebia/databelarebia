@@ -1,57 +1,128 @@
-# Miloud BELAREBIA
+<div align="center">
 
-**Tech Lead Data | Expert IA Generative | MLOps (Azure & AWS)**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Miloud%20BELAREBIA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Tech%20Lead%20Data%20%7C%20Expert%20IA%20Generative%20%7C%20MLOps&descSize=18&descColor=58a6ff&descAlignY=55" width="100%"/>
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miloudbelarebia)
+[![Website](https://img.shields.io/badge/2pidata.com-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://2pidata.com/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miloud.belarebia@2pidata.fr)
+[![AWS Certified](https://img.shields.io/badge/AWS_Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/f0961114-d2b2-4833-a74e-324cf86707dd/linked_in_profile)
 
-## A propos
+</div>
 
-Tech Lead Data et MLOps avec 7 ans d'experience dans la mise en production de plateformes Data/ML et de solutions IA pour des grands comptes (retail, transport, banque, telecom). Specialise en IA generative sur Azure et AWS, avec une forte orientation industrialisation du POC a la production, gouvernance, securite, observabilite et optimisation des couts.
+## `> whoami`
 
----
+Tech Lead Data et MLOps avec **7 ans d'experience** dans la mise en production de plateformes Data/ML et de solutions IA pour des grands comptes (retail, transport, banque, telecom).
 
-## Expertise
+Specialise en **IA generative sur Azure et AWS**, avec une forte orientation industrialisation du POC a la production, gouvernance, securite, observabilite et optimisation des couts.
 
-**IA Generative & LLM en production**
-> Assistants conversationnels, RAG, Document AI, recherche vectorielle, evaluation, guardrails et observabilite
+<br>
 
-**MLOps & Data Platform**
-> Conception de plateformes Data/ML, industrialisation, CI/CD, monitoring, scalabilite et FinOps
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Expertise
 
-**Leadership & Delivery**
-> Referent technique, mentoring, coordination architectes/developpeurs/metiers, cadrage a la mise en production
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### IA Generative & LLM
+Assistants conversationnels, RAG, Document AI, recherche vectorielle, evaluation, guardrails et observabilite
 
-## Stack technique
+### MLOps & Data Platform
+Conception de plateformes Data/ML, industrialisation, CI/CD, monitoring, scalabilite et FinOps
 
-| Domaine | Technologies |
-|---|---|
-| **Cloud** | Azure (OpenAI, AI Search, Document Intelligence, Cosmos DB, Fabric) -- AWS (Bedrock, SageMaker, S3, Glue, Athena, Kinesis, Redshift) |
-| **LLM & GenAI** | RAG, Prompt Engineering, Embeddings, FAISS, LangChain, LangGraph, LangSmith |
-| **Data & MLOps** | Python, SQL, Spark, Kafka, Streamlit, CI/CD GitLab, Docker |
-| **Outils** | Jira, Confluence, GitLab, Splunk, Power BI, QuickSight |
+</td>
+<td width="50%" valign="top">
 
----
+### Gouvernance & Ethique IA
+Responsible AI, GDPR, compliance-by-design, gestion des risques, cadrage des usages
+
+### Leadership & Delivery
+Referent technique, mentoring, coordination architectes/developpeurs/metiers, cadrage a la mise en production
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## Tech Stack
+
+<div align="center">
+
+#### Cloud & GenAI
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![SageMaker](https://img.shields.io/badge/SageMaker-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+
+#### LLM Engineering
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-412991?style=flat-square&logo=openai&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-412991?style=flat-square&logo=openai&logoColor=white)
+
+#### Data & MLOps
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI/CD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+#### Outils & Visualisation
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+![QuickSight](https://img.shields.io/badge/QuickSight-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white)
+
+</div>
+
+<br>
 
 ## Certification
 
+<div align="center">
+
 <a href="https://www.credly.com/badges/f0961114-d2b2-4833-a74e-324cf86707dd/linked_in_profile">
-  <img src="https://images.credly.com/size/110x110/images/4d4693bb-530e-4bca-9571-40f8be2ba5b3/image.png" alt="AWS Certified AI Practitioner" width="100"/>
+  <img src="https://images.credly.com/size/150x150/images/4d4693bb-530e-4bca-9571-40f8be2ba5b3/image.png" alt="AWS Certified AI Practitioner" width="120"/>
 </a>
 
-**AWS Certified AI Practitioner** -- Amazon Web Services
+**AWS Certified AI Practitioner**<br>
+Amazon Web Services
 
----
+</div>
+
+<br>
 
 ## Formation
 
-**Master Ingenierie Mathematique et Modelisation**, option Data Science -- Marseille (2015 - 2017)
+**Master Ingenierie Mathematique et Modelisation**, option Data Science — Marseille (2015 - 2017)<br>
 Diplome avec mention, classe 2e de promotion
+
+<br>
+
+## Langues
+
+![Francais](https://img.shields.io/badge/Francais-Natif-0055A4?style=flat-square)
+![Anglais](https://img.shields.io/badge/Anglais-Professionnel-012169?style=flat-square)
+![Arabe](https://img.shields.io/badge/Arabe-Courant-006233?style=flat-square)
+
+<br>
 
 ---
 
-## Contact
+<div align="center">
 
-- **Email** : [miloud.belarebia@2pidata.fr](mailto:miloud.belarebia@2pidata.fr)
-- **Localisation** : France
+<img src="https://github-readme-stats.vercel.app/api?username=databelarebia&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=databelarebia&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="165"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=100&section=footer" width="100%"/>
+
+</div>
