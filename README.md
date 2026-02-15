@@ -152,6 +152,59 @@ Diplome avec mention, classe 2e de promotion
 
 <br>
 
+## <img src="https://img.shields.io/badge/🦞-Open_Source-1f6feb?style=flat-square" height="20"/> Open Source Contributions
+
+<div align="center">
+
+Active contributor to [**OpenClaw**](https://github.com/openclaw/openclaw) — the open-source AI agent platform (196K+ stars)
+
+</div>
+
+<table>
+<tr>
+<th>Type</th>
+<th>Contribution</th>
+<th>Impact</th>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Extension-1f6feb?style=flat-square"/></td>
+<td><a href="https://github.com/openclaw/openclaw/pull/17273">Security Guard</a> — runtime security scanner</td>
+<td>New extension for vulnerability detection</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Extension-1f6feb?style=flat-square"/></td>
+<td><a href="https://github.com/openclaw/openclaw/pull/17449">Cost Guard</a> — budget enforcement & cost alerts</td>
+<td>Real-time API spend tracking with daily/monthly limits</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/CI_Fix-2ea043?style=flat-square"/></td>
+<td><a href="https://github.com/openclaw/openclaw/pull/17393">TS2742 fix</a> — unblocked CI for all PRs</td>
+<td>Fixed TypeScript error blocking entire repo CI</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Bug_Fix-2ea043?style=flat-square"/></td>
+<td><a href="https://github.com/openclaw/openclaw/pull/17295">Doctor QMD</a> — false positive embedding fix</td>
+<td>Eliminated spurious diagnostic warnings</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Bug_Fix-2ea043?style=flat-square"/></td>
+<td><a href="https://github.com/openclaw/openclaw/pull/17320">Anthropic OAuth</a> — refresh token fix</td>
+<td>Fixed authentication token refresh flow</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Bug_Report-d73a49?style=flat-square"/></td>
+<td><a href="https://github.com/openclaw/openclaw/issues/17315">CI TS2742</a> & <a href="https://github.com/openclaw/openclaw/issues/17341">CI OOM</a></td>
+<td>Identified & documented 2 CI blockers affecting all contributors</td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/RFC-6f42c1?style=flat-square"/></td>
+<td><a href="https://github.com/openclaw/openclaw/discussions/17275">Security Guardrails</a> proposal</td>
+<td>Architecture discussion for runtime security layer</td>
+</tr>
+</table>
+
+<br>
+
 ---
 
 <div align="center">
