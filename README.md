@@ -7,8 +7,6 @@ Founder of [**2PiData**](https://2pidata.fr). I build data & AI products and shi
 [![databelarebia.com](https://img.shields.io/badge/databelarebia.com-1f6feb?logo=instagram&logoColor=white&style=flat)](https://databelarebia.com)
 [![Email](https://img.shields.io/badge/miloud.belarebia%402pidata.fr-EA4335?logo=gmail&logoColor=white&style=flat)](mailto:miloud.belarebia@2pidata.fr)
 
-`Python` · `TypeScript` · `AWS` · `Azure` · `Claude Code` · `LangChain` · `Postgres` · `Spark` · `Docker`
-
 ---
 
 ### 🚀 What I'm building right now
