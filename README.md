@@ -43,8 +43,7 @@ Active R&D, not yet in the spotlight.
 
 ### 🏢 Organizations
 
-[![2PiData](https://img.shields.io/badge/2PiData-Data_%26_AI-000000?style=flat&logo=github&logoColor=white)](https://github.com/2pidata) &nbsp;
-[![MoroccoAI](https://img.shields.io/badge/MoroccoAI-AI_Community-006233?style=flat&logo=github&logoColor=white)](https://github.com/MoroccoAI)
+[![2PiData](https://img.shields.io/badge/2PiData-Data_%26_AI-000000?style=flat&logo=github&logoColor=white)](https://github.com/2pidata)
 
 ### 📜 Credentials
 
