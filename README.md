@@ -13,6 +13,7 @@ Founder of [**2PiData**](https://2pidata.fr). I build data & AI products and shi
 
 Small focused tools and bigger data products — most of them in the `data → AI agents → production` lane.
 
+- 🏃 **[sprint-agent](https://github.com/miloudbelarebia/sprint-agent)** — Persistent sprint memory for AI coding agents (Claude Code · Cursor · Copilot · Codex · Gemini · Aider · Windsurf). 83% fewer context tokens per session. Zero deps. **Live on PyPI** ([install](https://pypi.org/project/sprint-agent/) · [website](https://miloudbelarebia.github.io/sprint-agent/)).
 - 🛡️ **[openclaw-security-guard](https://github.com/miloudbelarebia/openclaw-security-guard)** — Agentic safety guardrails for OpenClaw: prompt-injection detection, dangerous-tool blocking, config auditing.
 - 💸 **[openclaw-cost-guard](https://github.com/miloudbelarebia/openclaw-cost-guard)** — Real-time API spend tracking and hard-stop budget enforcement for OpenClaw.
 - 🧠 **[claude-code-prompt-engineering-patterns](https://github.com/miloudbelarebia/claude-code-prompt-engineering-patterns)** — 10 production prompt patterns documented from the Claude Code source leak. Original Python implementations, zero proprietary code.
@@ -31,7 +32,6 @@ Things that already run in production for real users.
 Active R&D, not yet in the spotlight.
 
 - **belarebia** — Translate any video into any language, burn HD subtitles into MP4. Provider-agnostic (Gemini, Whisper, OpenAI, Claude, local Llama). 85+ languages.
-- **sprint-agent** — Persistent sprint context for any AI coding agent (Claude Code, Cursor, Copilot, Codex, Gemini, Aider, Windsurf). Zero deps.
 - **2PiData Calendar** — Cross-platform productivity timer & focus tracker (macOS · Windows · Linux · iOS · Android).
 - **darija-tutor** — Conversational language tutor à la Fluently, focused on under-served markets. Next.js · Supabase · LiveKit. Voice-first.
 - **News data platform** — News + social archives (Reddit Arctic Shift → S3) for emerging markets.
